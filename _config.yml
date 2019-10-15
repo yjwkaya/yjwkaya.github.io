@@ -14,15 +14,15 @@ owner:
   青春又会是什么味道，让我总抓不到" # 填写作者信息：博客描述
 
 # Data
-gavatar: img-浏览器.jpg # 浏览器地址栏小图标，可自定义更改
-favicon: img-浏览器.jpg # 浏览器地址栏小图标，可自定义更改
+gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: yjwkaya
 facebook_username: 
-weibo_username: 
-zhihu_username: 
+weibo_username: 一如少年模样OwO 
+zhihu_username: KAYA
 
 # Build settings  
 # use Github Flavored Markdown !important  
